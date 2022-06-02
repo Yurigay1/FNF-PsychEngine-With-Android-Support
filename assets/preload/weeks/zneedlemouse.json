@@ -1,0 +1,31 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"No Way No Way",
+			"NEEDLEMOUSEICO",
+			[
+				40,
+				35,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "needlemouse"
+}
