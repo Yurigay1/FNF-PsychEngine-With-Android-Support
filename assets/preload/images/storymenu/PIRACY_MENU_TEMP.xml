@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PIRACY_MENU_TEMP.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="piracy_temp_menu instance 10000" x="0" y="0" width="547" height="958"/>
+</TextureAtlas>
